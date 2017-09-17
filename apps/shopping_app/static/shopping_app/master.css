@@ -1,1 +1,12 @@
-body { background-color:pink }
+
+.even {
+    background-color: gray;
+}
+
+.odd {
+    background-color: lightblue;
+}
+
+td {
+    min-width: 100px;
+}
